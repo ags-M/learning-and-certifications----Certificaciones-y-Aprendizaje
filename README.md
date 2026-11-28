@@ -79,7 +79,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇪🇸 Certificaciones Obtenidas
 
 ### 🚀 1. Phyton3 paso a paso
-- **Organizado por: [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
+- **Organizado por:** [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
 - **Duración:** 30 horas
 - **Fecha:** 15/12/2022
 - **Estado:** ✅ Certificado de asistencia obtenido 
@@ -90,11 +90,11 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇺🇸 Certifications Obtained
 
 ### 🚀 1. Free AI Development Course - Programmer whit agents
-- **Organized by:** Mouredev **[BIGschool](https://thebigschool.com/))
-- **Duration:** 6 hours
-- **Date:** November 27, 2026
+- **Organized by:**[Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
+- **Duration:** 30 hours
+- **Date:** December 12, 2022
 - **Status:** ✅ Certificate of attendance obtained
-- **Description:** The development and practical application of Artificial Intelligence tools in programming.
+- **Description:** The development and practical with Python3 lenguage.
 
 
 
