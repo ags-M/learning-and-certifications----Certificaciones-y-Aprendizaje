@@ -28,13 +28,49 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇺🇸 Certifications Obtained
 
 ### 🚀 1. Free AI Development Course - The New Programmer
-- **Organized by:** [mouredev](https://github.com/mouredev) & [BIGschool](https://www.bigschool.com/)
+- **Organized by:** Mouredev **[BIGschool](https://thebigschool.com/))
 - **Duration:** 4 hours
 - **Date:** November 26, 2026
 - **Status:** ✅ Certificate of attendance obtained
-- **Description:** Introduction to the development and practical application of Artificial Intelligence tools in programming.
+- **Description:** The development and practical application of Artificial Intelligence tools in programming.
 
 ---
+## 🇪🇸 Certificaciones Obtenidas
+
+### 🚀 1. Desarrollo con IA- El Nuevo Programador
+- **Organizado por: Mouredev **[BIGschool](https://thebigschool.com/))
+- **Duración:** 4 horas
+- **Fecha:** 26/11/2026
+- **Estado:** ✅ Certificado de asistencia obtenido
+- **Descripción:** Desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+
+---
+
+## 🇺🇸 Certifications Obtained
+
+### 🚀 1. Free AI Development Course - The New Programmer
+- **Organized by:** Mouredev **[BIGschool](https://thebigschool.com/))
+- **Duration:** 4 hours
+- **Date:** November 26, 2026
+- **Status:** ✅ Certificate of attendance obtained
+- **Description:** The development and practical application of Artificial Intelligence tools in programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *(Espacio reservado para el próximo certificado. Solo copia ambos bloques y agrega los nuevos datos aquí abajo)*
   
   
