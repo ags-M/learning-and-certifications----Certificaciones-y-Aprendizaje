@@ -81,9 +81,9 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ### 🚀 1. Phyton3 paso a paso
 - **Organizado por: [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
 - **Duración:** 30 horas
-- **Fecha:** 27/11/2026
-- **Estado:** ✅ Certificado de asistencia obtenido
-- **Descripción:** Desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+- **Fecha:** 15/12/2022
+- **Estado:** ✅ Certificado de asistencia obtenido 
+- **Descripción:** Desarrollo y aplicación práctica de programacion con lenguaje Python3.
 
 ---
 
