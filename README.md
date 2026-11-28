@@ -48,14 +48,53 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 
 ## 🇺🇸 Certifications Obtained
 
+### 🚀 1. AI Development - Programming with Agents
+- **Organized by:** Mouredev [BIGschool](https://thebigschool.com/)
+- **Duration:** 6 hours
+- **Date:** November 27, 2026
+- **Status:** ✅ Certificate of attendance obtained
+- **Description:** Development and practical application of Artificial Intelligence tools in programming.
+
+---
+## 🇪🇸 Certificaciones Obtenidas
+
+### 🚀 1. Desarrollo con IA Programar de cero a Produccion
+- **Organizado por: Mouredev **[BIGschool](https://thebigschool.com/))
+- **Duración:** 6 horas
+- **Fecha:** 27/11/2026
+- **Estado:** ✅ Certificado de asistencia obtenido
+- **Descripción:** Desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+
+---
+
+## 🇺🇸 Certifications Obtained
+
+### 🚀 1. AI Development: Programming from Scratch to Production
+- **Organized by:** Mouredev [BIGschool](https://thebigschool.com/)
+- **Duration:** 6 hours
+- **Date:** November 27, 2026
+- **Status:** ✅ Certificate of attendance obtained
+- **Description:** Development and practical application of Artificial Intelligence tools in programming.
+
+## 🇪🇸 Certificaciones Obtenidas
+
+### 🚀 1. Desarrollo con IA Programar de cero a Produccion
+- **Organizado por: Mouredev **[BIGschool](https://thebigschool.com/))
+- **Duración:** 6 horas
+- **Fecha:** 27/11/2026
+- **Estado:** ✅ Certificado de asistencia obtenido
+- **Descripción:** Desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+
+---
+
+## 🇺🇸 Certifications Obtained
+
 ### 🚀 1. Free AI Development Course - Programmer whit agents
 - **Organized by:** Mouredev **[BIGschool](https://thebigschool.com/))
 - **Duration:** 6 hours
 - **Date:** November 27, 2026
 - **Status:** ✅ Certificate of attendance obtained
 - **Description:** The development and practical application of Artificial Intelligence tools in programming.
-
-
 
 
 
