@@ -79,7 +79,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇪🇸 Certificaciones Obtenidas
 
 ### 🚀 1. Python 3 paso a paso
-- **Organizado por:** Universidad Nacional Tecnológica
+- **Organizado por:** [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
 - **Duración:** 30 horas
 - **Fecha:** 15/12/2022
 - **Estado:** ✅ Certificado de asistencia obtenido
@@ -90,7 +90,7 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 ## 🇺🇸 Certifications Obtained
 
 ### 🚀 1. Python 3 Step by Step
-- **Organized by:** Universidad Nacional Tecnológica
+- **Organized by:** [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
 - **Duration:** 30 hours
 - **Date:** December 15, 2022
 - **Status:** ✅ Certificate of attendance obtained
