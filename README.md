@@ -16,12 +16,12 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 
 ## 🇪🇸 Certificaciones Obtenidas
 
-### 🚀 1. Desarrollo con IA Gratis - El Nuevo Programador
-- **Organizado por:**[BIGschool](https://thebigschool.com/))
+### 🚀 1. Desarrollo con IA- El Nuevo Programador
+- **Organizado por: Mouredev **[BIGschool](https://thebigschool.com/))
 - **Duración:** 4 horas
 - **Fecha:** 26/11/2026
 - **Estado:** ✅ Certificado de asistencia obtenido
-- **Descripción:** Iniciación al desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
+- **Descripción:** Desarrollo y aplicación práctica de herramientas de Inteligencia Artificial en la programación.
 
 ---
 
