@@ -78,23 +78,23 @@ Este repositorio documenta mi camino de formación continua, combinando teoría 
 
 ## 🇪🇸 Certificaciones Obtenidas
 
-### 🚀 1. Phyton3 paso a paso
-- **Organizado por:** [Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
+### 🚀 1. Python 3 paso a paso
+- **Organizado por:** Universidad Nacional Tecnológica
 - **Duración:** 30 horas
 - **Fecha:** 15/12/2022
-- **Estado:** ✅ Certificado de asistencia obtenido 
-- **Descripción:** Desarrollo y aplicación práctica de programacion con lenguaje Python3.
+- **Estado:** ✅ Certificado de asistencia obtenido
+- **Descripción:** Desarrollo y aplicación práctica de programación con el lenguaje Python 3.
 
 ---
 
 ## 🇺🇸 Certifications Obtained
 
-### 🚀 1. Free AI Development Course - Programmer whit agents
-- **Organized by:**[Universidad Nacional Tecnológica](https://sceu.frba.utn.edu.ar/e-learning/)
+### 🚀 1. Python 3 Step by Step
+- **Organized by:** Universidad Nacional Tecnológica
 - **Duration:** 30 hours
-- **Date:** December 12, 2022
+- **Date:** December 15, 2022
 - **Status:** ✅ Certificate of attendance obtained
-- **Description:** The development and practical with Python3 lenguage.
+- **Description:** Development and practical application of programming with the Python 3 language.
 
 
 
